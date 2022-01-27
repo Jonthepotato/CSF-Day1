@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643255349888,
+  "index": "https://github.com/Jonthepotato/CSF-Day1.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/Jonthepotato/CSF-Day1.git/favicon.ico",
+        "https://github.com/Jonthepotato/CSF-Day1.git/index.html",
+        "https://github.com/Jonthepotato/CSF-Day1.git/main.28f4e3bf7d895ad2.js",
+        "https://github.com/Jonthepotato/CSF-Day1.git/manifest.webmanifest",
+        "https://github.com/Jonthepotato/CSF-Day1.git/polyfills.3a5775cee8f81c95.js",
+        "https://github.com/Jonthepotato/CSF-Day1.git/runtime.23cff95de95b70d1.js",
+        "https://github.com/Jonthepotato/CSF-Day1.git/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-128x128.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-144x144.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-152x152.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-192x192.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-384x384.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-512x512.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-72x72.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-96x96.png",
+        "https://github.com/Jonthepotato/CSF-Day1.git/assets/images/duck_with_dog.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/Jonthepotato/CSF-Day1.git/assets/images/duck_with_dog.jpg": "b7d3319b1c0e307eed2dd2e3c15ee92ceb2774be",
+    "https://github.com/Jonthepotato/CSF-Day1.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/Jonthepotato/CSF-Day1.git/index.html": "be388bd726dd182f4abbf0427f314c9d08ceb0c2",
+    "https://github.com/Jonthepotato/CSF-Day1.git/main.28f4e3bf7d895ad2.js": "e7be5446deb57c179190172306c3af211397a457",
+    "https://github.com/Jonthepotato/CSF-Day1.git/manifest.webmanifest": "832a1b5db837bbd7fa3e9a5c480479d7de011c6b",
+    "https://github.com/Jonthepotato/CSF-Day1.git/polyfills.3a5775cee8f81c95.js": "22e5ae9f68e2e1fce01f9669b37fef479caf2ae3",
+    "https://github.com/Jonthepotato/CSF-Day1.git/runtime.23cff95de95b70d1.js": "6c8c5bef0fe776f27a8c114d1ad59df10ea679d0",
+    "https://github.com/Jonthepotato/CSF-Day1.git/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
